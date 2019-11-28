@@ -5,4 +5,3 @@ def index(request):
 
 def index(request):
     return HttpResponse("hello")
-
